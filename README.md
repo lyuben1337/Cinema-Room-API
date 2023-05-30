@@ -2,6 +2,7 @@
 
 This is a learning project developed as part of the [Hyperskill platform](https://hyperskill.org/projects/133), aimed at building a simple API for managing a cinema room. The project focuses on practicing Java programming and utilizing the Spring Boot framework.
 
+# API Endpoints
 ### Get Available Seats
 
 - **Endpoint:** GET /seats
